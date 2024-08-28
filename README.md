@@ -1,1 +1,2 @@
-# AICDR-Selecting-the-number-of-topics
+# AICDR：Selecting the number of topics
+This project implements the AICDR of Xu and Zhou  for selecting the number of topics. Some advantages of this algorithm: ﻿ AICDR is a technique predicated on clustering results to select the optimal number of topics and has strong adaptability to various topic models. It doesn't need complex parameters and responds quickly. ﻿ This project is an easy to read reference implementation of AICDR.
