@@ -1,10 +1,10 @@
 # AICDR：Selecting the number of topics
 This project implements the AICDR of Xu and Zhou  for selecting the number of topics. Paper Title: “An adaptive method for determining the optimal number of topics in topic modeling”.
 
-# Some advantages of this algorithm: 
+# Some advantages: 
 
-AICDR is a technique predicated on clustering results to select the optimal number of topics and has strong adaptability to various topic models. 
-It doesn't need complex parameters and responds quickly. ﻿ This project is an easy to read reference implementation of AICDR.
+1. AICDR is a technique predicated on clustering results to select the optimal number of topics and has strong adaptability to various topic models. 
+2. It doesn't need complex parameters and responds quickly. ﻿ This project is an easy to read reference implementation of AICDR.
 
 # How to use
 1. Firstly, use the Topic models.ipynb file to classify the dataset according to the number of different topics, and upload the classification results to the output folder.
