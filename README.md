@@ -12,7 +12,7 @@ This project implements the AICDR of Xu and Zhou  for selecting the number of to
 3. The Stability Analysis.ipynb file is an implementation of the comparative method Stability Analysis.
 
 # Reference Statement
-1. GSDMM,https://doi.org/10.1145/2623330.2623715,github:https://github.com/rwalk/gsdmm.
+1. GSDMM,DOI:10.1145/2623330.2623715, github:https://github.com/rwalk/gsdmm.
 2. SeaNMF,DOI：10.1145/3178876.3186009,github:https://github.com/tshi04/SeaNMF.
 3. Stability Analysis,DOI：10.1007/978-3-662-44848-9_32,github:https://github.com/derekgreene/topic-stability.
 
