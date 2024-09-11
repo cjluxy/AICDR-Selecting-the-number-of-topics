@@ -7,9 +7,10 @@ This project implements the AICDR of Xu and Zhou  for selecting the number of to
 2. It doesn't need complex parameters and responds quickly. ﻿ This project is an easy to read reference implementation of AICDR.
 
 # How to use
-1. Firstly, use the Topic models.ipynb file to classify the dataset according to the number of different topics, and upload the classification results to the output folder.
-2. Use the metrics.ipynb file to calculate AICDR on the results in the output folder and determine the number of topics. Metrics. ipynb includes the Elbow Method and AQDEB method.
+1. Firstly, use the Topic models.ipynb file to classify the dataset according to the number of different topics, and upload the classification results to the input folder.
+2. Use the metrics.ipynb file to calculate AICDR on the results in the output folder and determine the number of topics. metrics.ipynb includes the Elbow Method and AQDEB method.
 3. The Stability Analysis.ipynb file is an implementation of the comparative method Stability Analysis.
+4. Use draw.ipynb to draw photos.
 
 # Reference Statement
 1. GSDMM, DOI:10.1145/2623330.2623715, github:https://github.com/rwalk/gsdmm.
